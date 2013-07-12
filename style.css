@@ -1,0 +1,72 @@
+body{
+	margin:0;
+}
+.noshow{
+	display:none;
+}
+.wrapper{
+	background:url(images/comp_bg.jpg) no-repeat #FDB913;
+	position:relative;
+}
+.wrapper>.padded{
+	padding:20px 40px;
+}
+.header{
+	position:relative;
+}
+.friend-anim{
+	position:absolute;
+	top:-200px;
+	right:60px;
+}
+#autofill{
+	margin-bottom:10px;
+}
+.section{
+	margin-bottom:20px;
+}
+.section h1{
+	text-indent:-99999px;
+	height:60px;
+	width:400px;
+	margin-left:-40px;
+}
+.section-1 h1{
+	background:url(images/comp_title_1.png) no-repeat;
+}
+.section-2 h1{
+	background:url(images/comp_title_2.png) no-repeat;
+}
+.section-3 h1{
+	background:url(images/comp_title_3.png) no-repeat;
+}
+.section-4 h1{
+	background:url(images/comp_title_4.png) no-repeat;
+}
+.small-ta{
+	width:100%;
+	height:50px;
+}
+.error{
+	opacity:100;
+	font-size:9px;
+	color:red;
+}
+.validated .error{
+	opacity:0;
+}
+
+.inputfield span.add-on.error{
+	background-color:red;
+}
+.inputfield span.add-on.approve{
+	background-color:green;
+}
+
+#thanks .modal-body{
+	text-align:center;
+}
+#viewterms .modal-body p{
+	font-size:9px;
+	text-transform:uppercase;
+}

@@ -1,0 +1,28 @@
+
+ ,---.        ,--.                     ,--.   
+'.-.  \ ,---. |  ,---.  ,---. ,--.--.,-'  '-. 
+ .-' .'(  .-' |  .-.  || .-. ||  .--''-.  .-' 
+/   '-..-'  `)|  | |  |' '-' '|  |     |  |   
+'-----'`----' `--' `--' `---' `--'     `--'   
+
+
+-- Open source PHP URL shortener! --
+
+
+
+First off, thanks for using 2short!
+
+2short is a PHP based URL shortening script based on the idea that downloaded scripts should be easy to use right-out-of-the-box.
+
+
+Find out more at the project homepage:
+<http://code.google.com/p/2short>
+
+Stay updated by subscribing to the Scyberia blog:
+<http://blog.scyberia.tk/>
+
+
+
+License information in the text file LICENSE.txt. This program is copyrighted under the GNU GPL v3 license.
+
+Installation instructions in the text file README.txt

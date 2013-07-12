@@ -1,0 +1,75 @@
+[10-Jul-2013 12:04:46] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'facebook.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/dcserver/public_html/dave/iframetest.php on line 2
+[10-Jul-2013 12:07:58] PHP Parse error:  syntax error, unexpected ';' in /home/dcserver/public_html/dave/iframetest.php on line 11
+[10-Jul-2013 12:11:56] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dcserver/public_html/dave/iframetest.php on line 11
+[10-Jul-2013 12:49:26] PHP Parse error:  syntax error, unexpected '/' in /home/dcserver/public_html/dave/index.php on line 38
+[10-Jul-2013 12:51:47] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dcserver/public_html/dave/index.php on line 37
+[10-Jul-2013 17:04:25] Bad Signed JSON signature!
+[10-Jul-2013 17:09:02] Bad Signed JSON signature!
+[10-Jul-2013 17:09:34] Bad Signed JSON signature!
+[10-Jul-2013 17:10:22] Bad Signed JSON signature!
+[10-Jul-2013 17:11:11] Bad Signed JSON signature!
+[10-Jul-2013 17:11:38] Bad Signed JSON signature!
+[10-Jul-2013 17:13:43] Bad Signed JSON signature!
+[10-Jul-2013 17:14:45] Bad Signed JSON signature!
+[10-Jul-2013 17:16:57] Bad Signed JSON signature!
+[10-Jul-2013 17:17:24] Bad Signed JSON signature!
+[10-Jul-2013 17:17:45] Bad Signed JSON signature!
+[10-Jul-2013 17:20:15] Bad Signed JSON signature!
+[10-Jul-2013 17:20:26] Bad Signed JSON signature!
+[10-Jul-2013 17:22:56] Bad Signed JSON signature!
+[10-Jul-2013 17:23:10] Bad Signed JSON signature!
+[10-Jul-2013 17:23:17] Bad Signed JSON signature!
+[10-Jul-2013 17:23:59] Bad Signed JSON signature!
+[10-Jul-2013 17:26:07] Bad Signed JSON signature!
+[10-Jul-2013 17:28:44] Bad Signed JSON signature!
+[10-Jul-2013 17:29:14] Bad Signed JSON signature!
+[10-Jul-2013 17:29:47] Bad Signed JSON signature!
+[10-Jul-2013 17:31:52] Bad Signed JSON signature!
+[10-Jul-2013 17:33:54] Bad Signed JSON signature!
+[10-Jul-2013 17:34:01] Bad Signed JSON signature!
+[10-Jul-2013 17:37:27] Bad Signed JSON signature!
+[10-Jul-2013 17:41:57] Bad Signed JSON signature!
+[10-Jul-2013 17:42:43] Bad Signed JSON signature!
+[10-Jul-2013 17:59:01] Bad Signed JSON signature!
+[10-Jul-2013 17:59:01] Bad Signed JSON signature!
+[10-Jul-2013 17:59:01] Bad Signed JSON signature!
+[10-Jul-2013 18:03:40] Bad Signed JSON signature!
+[10-Jul-2013 18:03:40] Bad Signed JSON signature!
+[10-Jul-2013 18:03:40] Bad Signed JSON signature!
+[10-Jul-2013 18:03:49] Bad Signed JSON signature!
+[10-Jul-2013 18:03:49] Bad Signed JSON signature!
+[10-Jul-2013 18:03:49] Bad Signed JSON signature!
+[10-Jul-2013 18:04:50] Bad Signed JSON signature!
+[10-Jul-2013 18:04:50] Bad Signed JSON signature!
+[10-Jul-2013 18:04:50] Bad Signed JSON signature!
+[10-Jul-2013 18:09:47] Bad Signed JSON signature!
+[10-Jul-2013 18:09:47] Bad Signed JSON signature!
+[10-Jul-2013 18:09:47] Bad Signed JSON signature!
+[11-Jul-2013 08:16:41] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/dcserver/public_html/dave/create_url.php on line 8
+[11-Jul-2013 08:57:08] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/dcserver/public_html/dave/create_url.php on line 5
+[11-Jul-2013 09:02:22] PHP Parse error:  syntax error, unexpected ';' in /home/dcserver/public_html/dave/index.php on line 16
+[11-Jul-2013 09:02:41] PHP Parse error:  syntax error, unexpected ';' in /home/dcserver/public_html/dave/index.php on line 16
+[11-Jul-2013 11:23:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Podio PHP library requires PHP 5.3 or higher.' in /home/dcserver/public_html/dave/podio/PodioAPI.php:4
+Stack trace:
+#0 /home/dcserver/public_html/dave/duplicate_email.php(2): include_once()
+#1 {main}
+  thrown in /home/dcserver/public_html/dave/podio/PodioAPI.php on line 4
+[11-Jul-2013 11:24:14] PHP Fatal error:  Uncaught exception 'Exception' with message 'Podio PHP library requires PHP 5.3 or higher.' in /home/dcserver/public_html/dave/podio/PodioAPI.php:4
+Stack trace:
+#0 /home/dcserver/public_html/dave/duplicate_email.php(2): include()
+#1 {main}
+  thrown in /home/dcserver/public_html/dave/podio/PodioAPI.php on line 4
+[11-Jul-2013 11:27:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'Podio PHP library requires PHP 5.3 or higher.' in /home/dcserver/public_html/dave/podio/PodioAPI.php:4
+Stack trace:
+#0 /home/dcserver/public_html/dave/duplicate_email.php(2): include()
+#1 {main}
+  thrown in /home/dcserver/public_html/dave/podio/PodioAPI.php on line 4
+[11-Jul-2013 16:41:03] Bad Signed JSON signature!
+[11-Jul-2013 16:41:03] Bad Signed JSON signature!
+[11-Jul-2013 16:41:03] Bad Signed JSON signature!
+[11-Jul-2013 16:41:18] Bad Signed JSON signature!
+[11-Jul-2013 16:41:18] Bad Signed JSON signature!
+[11-Jul-2013 16:41:18] Bad Signed JSON signature!
+[11-Jul-2013 16:41:55] Bad Signed JSON signature!
+[11-Jul-2013 16:41:55] Bad Signed JSON signature!
+[11-Jul-2013 16:41:55] Bad Signed JSON signature!
